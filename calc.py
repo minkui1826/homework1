@@ -12,7 +12,8 @@ def div(x,y):
 
 a,b = map(float, input().split())
 
-print(f"Add: {add(a,b)} Edited")
+print(f"Add: {add(a,b)} feature-branch2")
+
 print(f"Sub: {sub(a,b)}")
 print(f"Mul: {mul(a,b)}")
 print(f"Div: {div(a,b)}")
